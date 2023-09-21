@@ -1,0 +1,24 @@
+1.Introduction about trainer and Interns
+2.topic:
+   *CPU
+   *RAM
+   *Hard disk
+ 3. Small Introduction about  Network 
+   eg :Whatapps  
+
+4.OSI Layers
+5.protocals
+   *TCP
+   *UDP
+   *HTTP
+   *HTTPS
+   *IP
+6. Explaination of Packets
+7. Connection between client and server
+8.DNS
+9.CDN 
+    Eg google
+10. Ask to develop an web site
+   using (HTML)   
+
+
