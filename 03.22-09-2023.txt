@@ -1,0 +1,10 @@
+1.Task given in HTML and CSS  
+     
+     cloning of YouTube website
+
+problems
+hosting to git hubs
+the file name of the HTML must be index.HTML
+the file name of the CSS must be  Style.CSS
+
+
