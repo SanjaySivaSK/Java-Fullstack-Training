@@ -1,0 +1,6 @@
+E-commerce Website
+------------------
+-> Product edit options (Admin Page)
+-> Cart (Updation)
+ -> Few Functionalities added such as validation, userID, session handling, search with keywords
+

@@ -1,0 +1,45 @@
+Listner:
+onlode="fn()"->called when the page is loaded
+window->global scope object
+
+window.addEventListner("load" // page is loaded,()=>{}//anymomus arrow function/all back function)
+window.addEventListner("load",fn//when passing as argument no need to give ())
+
+load
+keyup->While a key is released the function will be called
+keydown
+keypress
+eg:
+inputRef.addEventListner("keyup",()=>{
+    paraRef.innerText=inputRef.value;
+});
+
+onclick
+access with id and with out id
+
+getelementbytagname->return collection
+getelementbyclass->return collection
+---> can access with index
+
+getelementbyid->direct element
+queryselector->will return node list
+queryselectorall->will return node list
+
+.innertext->the value will be string to convert to int use parseint
+parseint
+
+angular->two way 
+
+e.target.value
+
+Task
+----
+E-Commerce Website
+
+completed portion of Task
+-------------------------
+UI
+--
+Login,Register
+Admin-> Index,Order,Add Products
+User->Index,Cart,Order

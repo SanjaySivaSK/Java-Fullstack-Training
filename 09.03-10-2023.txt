@@ -1,0 +1,9 @@
+Points
+------
+
+->While using <form> tag the page will relode automatically
+
+E-commerce Website
+------------------
+->Cart functionality while cart is empty and with products.
+->Load products(Admin,user)

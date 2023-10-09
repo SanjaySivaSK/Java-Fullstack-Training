@@ -1,0 +1,14 @@
+getItem, setItem
+stringify-> to convert to string
+
+->E-commerce site development
+
+
+JavaScript Terms
+-----------------
+
+location.replace() -> replace another window                
+
+let users = JSON.parse(localStorage.getItem());
+localStorage.setItem()-> The array will be created in local storage
+
