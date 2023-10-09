@@ -1,2 +1,5 @@
 introduction of await and async 
 live demo with the e-commerce website
+and 
+new task of form validation and add to cart have been given
+as exercise
