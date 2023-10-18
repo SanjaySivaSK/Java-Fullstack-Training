@@ -1,0 +1,28 @@
+jquery
+------
+to access -> jquery cdn
+
+$
+
+document 
+ready()
+*->all elements
+
+$().css()
+val()->to fetch the value
+
+TypeScript -> superset of javascript
+----------
+
+ls,dir->see directory
+tsc->type script compiler
+babel->convert ECMA Script to javascript
+
+Command to use TypeScript
+--------------------------
+open gitbash
+npm init -y
+npm install -D parcel parcel-bundler
+npm run filename
+
+

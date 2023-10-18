@@ -1,0 +1,37 @@
+
+
+Angular
+-------
+Declaration->to access component, component has to be declared
+sevices-> business logics app.modeule->provider->servicename
+
+directive type->
+--------------
+component->@
+structural->*ngFor,*ngIf
+attribut->ng class, ng style
+
+Event-binding->(click),(load),()
+
+Interface->to define type
+ngModel->import formmodule, [(ngModel)]
+
+decorators->start with @
+
+import,export->
+ng serve->to run angular
+tow-way binding->send and get data, achived using ngModel
+template Url->link ts and respective html in ts file
+
+bootStrap->main.ts, start of application
+Model->to create Interface
+constructor->called first in class
+provider->services in app.module
+property-binding->[]->hrml element in []
+selector->component.ts selector: 'app-cources',
+
+app-module
+----------
+declaration->Components are declared
+imports->Modules are imported
+providers->services

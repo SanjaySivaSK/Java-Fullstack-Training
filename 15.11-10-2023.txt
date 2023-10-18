@@ -1,0 +1,30 @@
+
+Angular
+-------
+install angular -> npm install -g @angular/cli
+create a project in andular -> ng new projectname
+
+ng->angular CLI
+ng serve-> To Run development
+
+SPA->singlr page application
+-->Component based
+
+create Component
+----------------
+ng g c components/filename
+g->generate
+c->component
+
+Create Model
+-------------
+ng g i model/modelName
+
+String Interpertation
+---------------------
+@->Decators
+
+Single Ton patterm-> creating an object only once
+[]->property
+
+event binding->(click)

@@ -1,0 +1,13 @@
+Angular Form
+------------
+ngForm
+------
+dirty,pristine->data modification
+touched,untouched->clicking the box
+valid, invalid->the entered value is valid or not
+ngForm->Overall form
+ngModel->For form elements
+
+Pipes
+-----
+to transfer one form to another

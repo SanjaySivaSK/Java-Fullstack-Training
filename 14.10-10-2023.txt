@@ -1,0 +1,24 @@
+TypeScript
+----------
+
+Array
+-----
+car:string[]->commonly used
+car:Array<string>
+
+Object
+------
+?->option in type of Object
+readonly->can't change
+|->this or that datatype
+ type typeOfArray = { id?: number;readonly name: string };
+
+ Interface
+ ---------
+Interface and type can be interchangebly used
+
+ class
+ -----
+ instance
+ dependency injection->dependent on other class
+object->instance of a class, instance will be created using new() keyword

@@ -1,0 +1,42 @@
+
+Routing:
+
+setting path and the components in the app routing module
+router link ="/"
+getting products id
+constructors
+router & activatedroute
+navigate keyword to change the router
+
+app-Routing
+{path:'', component:NmaeComponent}
+
+app-component.html->router-outlet
+
+nav->
+router-link->click path
+
+Task:
+----
+Assessment-1
+------------
+Login
+Register
+Home
+Cart
+Orders
+NavBar
+
+appcomponent->navbar, router-outlet
+
+Assessment-2
+------------
+without service
+No validation
+Form->
+Name 
+E-mail
+Phone Number
+Save Button
+
+Add,Edit,Delete,View

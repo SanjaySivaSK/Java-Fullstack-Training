@@ -1,0 +1,6 @@
+login validation and Register validation
+in angular 
+template and react forms
+
+and extends of Ecommerce in Angular 
+Add to Cart task
