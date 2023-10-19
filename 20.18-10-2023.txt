@@ -1,0 +1,2 @@
+extend of e-commerce in Angular
+adding to add to cart (task)
