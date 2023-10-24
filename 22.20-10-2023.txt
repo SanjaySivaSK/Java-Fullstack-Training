@@ -1,0 +1,30 @@
+introduction  to java 
+
+variables 
+datatypes
+ primitive and non primitive
+ int
+ float 
+ char
+ boolean
+
+
+errors-
+
+integer is too long 
+
+
+ non-primitives
+ String
+
+Array
+
+int [] arr=new int[3]
+intialize via 
+index of the Array
+arr[0]=1;
+
+atm project 
+in java 
+face issue 
+how to declare a method in java and return

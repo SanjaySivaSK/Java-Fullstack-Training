@@ -1,0 +1,6 @@
+objects
+class
+abstract
+exception
+methods
+interface
