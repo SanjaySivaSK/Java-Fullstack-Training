@@ -27,4 +27,4 @@ arr[0]=1;
 atm project 
 in java 
 face issue 
-how to declare a method in java and return
+how to declare a method in java and return.

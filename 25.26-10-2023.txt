@@ -1,0 +1,3 @@
+start with java e-commerce 
+login and  register page with java 
+executed on command line 
