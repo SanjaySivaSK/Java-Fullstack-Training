@@ -1,0 +1,48 @@
+SQL Concepts 
+------------
+    *DDL commands 
+        - CREATE
+        - ALTER 
+        - DROP 
+        - TRUNCATE
+ 
+    *DML commands 
+        - INSERT 
+        - UPDATE 
+        - DELETE
+ 
+    *DQL commands 
+        - SELECT 
+    *Joins 
+        - Inner join 
+        - Left join 
+        - right join 
+    *Aggregate function 
+        - Count()
+ 
+    *Aliasing
+ 
+    *Clause 
+        - where
+ 
+    *Order By 
+        - DESC 
+        - ASC
+ 
+    *Not null 
+    *Default 
+    *Datatypes 
+        - INT 
+        - VARCHAR
+ 
+ 
+Task 
+----
+    *To create ERR diagram using queries in SQL for E-commerce application for the following requirements 
+        - Role -> admin, user 
+        - User 
+        - Category 
+        - Product 
+        - Cart 
+        - Order
+ 

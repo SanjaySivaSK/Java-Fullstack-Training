@@ -1,0 +1,30 @@
+SQL Concepts 
+------------
+    - Stored Procedure 
+    - Triggers 
+    - Aggregate function
+ 
+SQL Task 
+--------
+    *Completed the EER diagram task for the following 
+        - Register customer 
+        - Login customer 
+        - Show all categories 
+        - Show products for a particular category 
+        - Show all products 
+        - Add to cart 
+        - Show cart 
+        - Check out 
+        - Orders
+ 
+ 
+Servlet 
+-------
+    *Servlet Creation 
+    *Servlet mapping 
+    *Session servlet 
+    *Cookie servlet 
+    *HttpServlet (GET, POST)
+ 
+ 
+-> Used 'Tomcat' server for client-server communication for request and response

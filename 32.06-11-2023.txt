@@ -1,0 +1,43 @@
+Task 
+----
+    *Completed the web application using JSP, JDBC with database and Servlet for the following requirements 
+        - Login 
+        - Register 
+        - Add Item 
+        - Remove Item 
+        - Edit Item
+ 
+    *Completed the java console application with JDBC for E-Commerce for the following requirements
+        -Login for user and admin
+        -Register for user 
+        -Products 
+        -Cart 
+        -Orders 
+        -Logout 
+        -Add/Edit/Remove Products
+ 
+    ->Store and access data from database.
+    ->Use Model, View and Controller architecture.
+ 
+ 
+Github links 
+------------
+    *JSP-JDBC - https://github.com/KarthigaGurusamy/JSP-JDBC
+    *JDBC-Ecommerce - https://github.com/KarthigaGurusamy/Java_JDBC_ECommerce
+ 
+ 
+Spring Concepts 
+---------------
+    *Spring setup 
+    *Annotations 
+    *Plugins 
+    *Spring mvc dependencies 
+    *params (name)
+    *Request Mapping 
+    *Dispatcher 
+    *Form elements validation through annotations using hibernate validator
+    *Model (ModelAttribute)
+    *WebDataBinder 
+    *InitiBinder 
+    *HttpServletRequest 
+    *StringTrimmerEditor

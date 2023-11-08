@@ -1,0 +1,31 @@
+Task completed
+--------------
+    *To build a java console application for E-Commerce 
+        -Login for user and admin
+        -Register for user 
+        -Products 
+        -Cart 
+        -Orders 
+        -Logout 
+
+    ->Store and access data from file.
+    ->Use Model, View and Controller architecture.
+
+
+Github Repository link
+----------------------
+->E-commerce using java - https://github.com/sivanesanmurugan/Java-Shopping
+
+
+Database basics 
+---------------
+    *Relational databases
+    *Non-Relational database 
+    *Primary Key 
+    *Foriegn Key
+
+Task to do
+----------
+    *To perform operations on date like add or minus days/months using 
+        -Date 
+        -Calender

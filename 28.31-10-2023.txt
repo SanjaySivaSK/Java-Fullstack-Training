@@ -1,0 +1,35 @@
+Day-28:
+
+Java 8 concepts 
+---------------
+    *Difference between java 8 and other java versions.
+    *Generics 
+        - It is represented using "T".
+    *Functional interface 
+        - Consumer 
+        - BiConsumer 
+        - Predicate 
+        - BiPredicate 
+        - Function 
+        - BiFunction 
+    *Threads 
+        1. Implementing threads using runnable.
+        2. Implementing threads using thread class.
+        3. Synchronized Threads.
+    *Anonymous function / Arrow function.
+    *Stream 
+        1. Intermediate Operators - It returns stream and does not provide end result.
+            -> Filter()
+            -> Map()
+            -> Distinct() 
+            -> Sorted()
+         2. Terminal Operators - It does not return stream but provides end result.
+            -> Count() 
+            -> Collect()
+            -> Min()
+            -> Max()
+    *Arrays 
+    *Collections 
+    *Java Memory allocation 
+        - Stack memory 
+        - Heap memory
