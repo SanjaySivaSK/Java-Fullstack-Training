@@ -22,7 +22,7 @@ JPA(Java persistance API) concepts
  
  
 Task 
-----
+---
     *To develop a REST API using JPA for Todo application with login and register with the following requirements
         - Add Items
         - View Items
