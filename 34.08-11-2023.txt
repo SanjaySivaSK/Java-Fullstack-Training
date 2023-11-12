@@ -1,0 +1,29 @@
+34.08-11-2023.txt
+Task 
+-----
+    *Completed the Login and Register web application using Spring MVC, JSP and Servlet.
+ 
+ 
+Github Link 
+-----------
+Spring MVC -> https://github.com/vallarasuSJ/Spring_Project
+ 
+ 
+Rest Api Concepts 
+----------------
+    *Creating Rest API using Spring Boot.
+    *HttpRequests 
+        -> @GetMapping
+        -> @PutMapping 
+        -> @PostMapping 
+        -> @DeleteMapping 
+    *JdbcTemplate
+ 
+ 
+Task 
+----
+    *To create a rest API for todo application using Springboot for the following HttpRequests.
+        - GET 
+        - POST 
+        - PUT 
+        - DELETE

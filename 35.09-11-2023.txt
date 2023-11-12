@@ -1,0 +1,30 @@
+JPA(Java persistance API) concepts 
+----------------------------------
+    ->Annotations
+    ->@Entity
+        - @Primary
+        - @Id
+        - @Generatevalue
+        - @Table(name = "table_person")
+        - @Column(name = "address")
+        - @Transaction
+        - @persistant
+        - @Getter
+        - @Setter
+        - @NoArgsConstructor
+        - @AllArgsConstructor
+    ->Relations
+        - @OneToOne
+        - @OneToMany 
+        - @ManyToOne 
+        - @ManyToMany
+        - @JoinColumn
+ 
+ 
+Task 
+----
+    *To develop a REST API using JPA for Todo application with login and register with the following requirements
+        - Add Items
+        - View Items
+        - Edit Items 
+        - Delete Items

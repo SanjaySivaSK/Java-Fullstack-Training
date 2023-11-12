@@ -1,0 +1,41 @@
+Springboot
+-----------
+    -> Tightly coupled
+    -> Loosely coupled-using interface
+    -> Application context
+    -> Getbeans 
+    -> @Component
+    -> @Autowired
+    -> @Primary
+    -> @Qualifier()
+    -> @AutowiredByName
+    -> Scope prototype
+    -> Jdbcconnection
+    -> Constructor
+       * postConstructor
+       * preDestroy
+    -> @ComponentScan("packageName")-->different folder call
+    -> CDI(Context Depandency Injection)
+        * @name--instead of @component
+        * @inject--instead of  @ autowired
+        * prototype-->new object creation
+ 
+Spring
+------
+    -> @Configuration -->like @springboot in application file
+    -> @ComponentScan("package Name")
+    -> AnnotationConfigApplicationContext-->like main method
+ 
+ 
+Spring in Xml
+-------------
+    -> Import xml link
+    -> ClassPathXmlApplicationContext-->main method
+ 
+ 
+Spring Boot
+-----------
+    -> Created json array
+    -> CommandLineRunner
+    -> Restcontroller
+    -> Repository

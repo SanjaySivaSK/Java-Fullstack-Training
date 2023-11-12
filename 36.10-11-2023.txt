@@ -1,0 +1,32 @@
+
+Task 
+----
+    *Completed the REST API using JPA for Todo application with login and register with the following requirements
+        - Add Items
+        - View Items
+        - Edit Items 
+        - Delete Items
+ 
+ 
+Github Link 
+-----------
+Todo Rest API - https://github.com/vallarasuSJ/spring-boot-jpa-todo
+ 
+ 
+JPA Security concepts 
+---------------------
+    -> Security Dependencies 
+    -> Optional<>
+    -> Derived Queries 
+    -> Data Loader for loading data
+    -> Application Event 
+    -> Encryption 
+    -> Authorization and Authentication through Basic auth
+    -> HttpStatus Codes
+    -> @EnableWebSecurirty annotation
+    -> DaoAuthentication Provider 
+    -> HttpSecurity 
+    -> SecurityFilterChain 
+        *permitAll()
+        *antMatchers()
+        *csrf()
