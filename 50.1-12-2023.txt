@@ -1,0 +1,15 @@
+lazy Loading 
+struct
+custom validation
+
+completion of project Library Management system 
+
+Alll CRED operation in 
+book 
+category
+author
+issue  book
+ return   book
+ notification
+ clear the notification by admin came from user requested book
+ 

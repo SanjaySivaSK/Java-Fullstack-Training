@@ -1,0 +1,9 @@
+49.30-11-2023.txt
+learned how to file upload fro the front end to  back end 
+issue face while uploading the file from front and backend
+
+405 error 
+404 error
+and resolved those errors 
+
+

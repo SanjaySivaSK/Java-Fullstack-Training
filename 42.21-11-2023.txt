@@ -1,0 +1,3 @@
+enter a api end point for all the functionalities 
+including 
+admin side and user side 
